@@ -1,0 +1,3 @@
+Git is a version control system.
+Git is free software.
+Initialized empty Git repository in /Users/xiaoran/.git/
